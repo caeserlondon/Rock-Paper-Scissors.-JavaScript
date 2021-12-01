@@ -4,9 +4,7 @@
 
 <br>
 
-### visit the deployed website:
-
-https://rps-javascript-caeserlondon.netlify.app/
+<a href="https://rps-javascript-caeserlondon.netlify.app/" target="_blank"><h2>visit the deployed website on Netlify</h2></a>
 
 ### You pick your move
 
