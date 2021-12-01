@@ -4,6 +4,10 @@
 
 <br>
 
+### visit the deployed website:
+
+https://rps-javascript-caeserlondon.netlify.app/
+
 ### You pick your move
 
 ![Screenshot](ui.png)
